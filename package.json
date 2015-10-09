@@ -1,6 +1,6 @@
 {
   "name": "linear-presets-amount-of-substance",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Linear presets for amount of substance units",
   "main": "src/linear-presets-amount-of-substance.js",
   "scripts": {
